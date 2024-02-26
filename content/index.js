@@ -8,7 +8,7 @@ function render({ model, el }) {
     model.save_changes();
   });
   model.on("change:count", () => {
-    button.innerHTML = `COUNT is ${getCount()}`;
+    button.innerHTML = `count is ${getCount()}`;
   });
   el.appendChild(button);
 }
