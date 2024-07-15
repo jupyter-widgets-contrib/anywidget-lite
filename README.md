@@ -12,3 +12,8 @@ Open the following link in your browser and start coding:
 
 **https://jtpio.github.io/anywidget-lite/lab/index.html?path=anywidget.ipynb**
 
+## Sharing notebooks
+
+This JupyterLite project comes with a "Share" button powered by nblink. 
+nblink is a jupyterlite extension that compresses your notebook into a url that allows anyone to open a copy just from a link.
+More about nblink here https://github.com/dwootton/nblink
